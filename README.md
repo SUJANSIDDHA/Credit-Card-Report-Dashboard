@@ -1,5 +1,6 @@
 # Credit-Card-Report-Dashboard!
-[Screenshot 2025-01-10 192409](https://github.com/user-attachments/assets/eb1d1e81-355b-435e-9150-e8057c533170)
+![Screenshot 2025-01-10 192409](https://github.com/user-attachments/assets/565b3a7f-c9e5-47c6-9231-3c2055dbf975)
+
 ![Screenshot 2025-01-10 192424](https://github.com/user-attachments/assets/e6841be4-7b8d-446f-8a80-48b4bf0c47ac)
 
 ### Dashboard Link : [[https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/view?r=eyJrIjoiNDliZDJiMjktM2NiNy00OWM1LWE5NzItMzllN2JmMWMwYTk3IiwidCI6ImMwZjRjZmQ0LTZkZTAtNDFlZi1iZmM5LTk0ZDQxNmRlNzIwOSJ9)
